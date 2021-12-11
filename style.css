@@ -1,0 +1,35 @@
+body {
+    background: lightblue;
+    font-family: 'Special Elite', cursive;
+}
+
+.headerDiv {
+    background: linear-gradient(rgb(54, 182, 224), lightblue);
+}
+
+.headerDiv p {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 750;
+    font-size: medium;
+}
+
+.mainDiv button {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80px;
+    height: 40px;
+    margin: 25 0 25 0;
+    font-weight: 500;
+}
+
+.copyRightFooter {
+    position: fixed;
+    bottom: 0;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(lightblue, rgb(54, 182, 224));
+    font-size: 18px;
+    line-height: 6;
+    text-shadow: 10px 5px 3px rgb(93, 93, 93);
+}
